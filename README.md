@@ -65,8 +65,7 @@ Pixel values are normalized from the original `0` to `255` range into the `0` to
 If you are using Git:
 
 ```bash
-git clone <your-repo-url>
-cd "neural network from scratch"
+git clone https://github.com/Andrew-Tu225/neural-network-from-scratch
 ```
 
 Or download the project files and open the folder locally.
